@@ -1,11 +1,88 @@
 {
-    "postagens": [
-      { "id": 1, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*IqSLoydVQwWsVmlchl5B4A.png", "titulo": "Angular Developer Survey 2022 Results Summary","conteudo":"The Angular team is evidence driven — we collect feedback from developers to decide what should be part of our roadmap. We get data from dozens of sources such as conversations with people, comments on social media, surveys, market research, and much more. One of the main sources which helps us make informed decisions is our annual developer survey.", "autor": "Minko Gechev" },
-      { "id": 2, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*CNy2EclZxC1hmi_govb_7w.png", "titulo": "Angular v16 is here!","conteudo":"Six months ago, we reached a significant milestone in Angular’s simplicity and developer experience by graduating the standalone APIs from developer preview. Today, we’re thrilled to share that we’re continuing the Angular Momentum with the biggest release since the initial rollout of Angular; making large leaps in reactivity, server-side rendering, and tooling. All this comes with dozens of quality-of-life improvements across feature requests, with over 2,500 combined thumbs up on GitHub!", "autor": "Minko Gechev" },
-      { "id": 3, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png", "titulo": "Moving Angular CLI to Jest and Web Test Runner","conteudo":"On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.", "autor": "Doug Parker" },
-      { "id": 3, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png", "titulo": "Moving Angular CLI to Jest and Web Test Runner","conteudo":"On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.", "autor": "Doug Parker" },
-      { "id": 3, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png", "titulo": "Moving Angular CLI to Jest and Web Test Runner","conteudo":"On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.", "autor": "Doug Parker" },
-      { "id": 3, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png", "titulo": "Moving Angular CLI to Jest and Web Test Runner","conteudo":"On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.", "autor": "Doug Parker" },
-      { "id": 3, "imagem":"https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png", "titulo": "Moving Angular CLI to Jest and Web Test Runner","conteudo":"On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.", "autor": "Doug Parker" }
-    ]
-  }
+  "postagens": [
+    {
+      "id": 1,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*IqSLoydVQwWsVmlchl5B4A.png",
+      "titulo": "Angular Developer Survey 2022 Results Summary",
+      "conteudo": "The Angular team is evidence driven — we collect feedback from developers to decide what should be part of our roadmap. We get data from dozens of sources such as conversations with people, comments on social media, surveys, market research, and much more. One of the main sources which helps us make informed decisions is our annual developer survey.",
+      "autor": "Minko Gechev"
+    },
+    {
+      "id": 2,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*CNy2EclZxC1hmi_govb_7w.png",
+      "titulo": "Angular v16 is here!",
+      "conteudo": "Six months ago, we reached a significant milestone in Angular’s simplicity and developer experience by graduating the standalone APIs from developer preview. Today, we’re thrilled to share that we’re continuing the Angular Momentum with the biggest release since the initial rollout of Angular; making large leaps in reactivity, server-side rendering, and tooling. All this comes with dozens of quality-of-life improvements across feature requests, with over 2,500 combined thumbs up on GitHub!",
+      "autor": "Minko Gechev"
+    },
+    {
+      "id": 3,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png",
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "conteudo": "On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.",
+      "autor": "Doug Parker"
+    },
+    {
+      "id": 4,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png",
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "conteudo": "On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.",
+      "autor": "Doug Parker"
+    },
+    {
+      "id": 5,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png",
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "conteudo": "On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.",
+      "autor": "Doug Parker"
+    },
+    {
+      "id": 6,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png",
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "conteudo": "On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.",
+      "autor": "Doug Parker"
+    },
+    {
+      "id": 7,
+      "imagem": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*7xsEVBlbtN6eqS6o6UJyAw.png",
+      "titulo": "Moving Angular CLI to Jest and Web Test Runner",
+      "conteudo": "On the Angular team, we believe testing is critical to build highly complex and scalable applications effectively. Testing takes many forms, and “unit tests” focus on testing the smallest units of a codebase. For Angular applications, this typically includes tests of individual components or services.",
+      "autor": "Doug Parker"
+    },
+    {
+      "id": 8,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "titulo": "Teste do Método POST",
+      "conteudo": "Realizando o método POST do http com fetch.",
+      "autor": "Vinicius Aguiar"
+    },
+    {
+      "id": 9,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "titulo": "Teste do Método POST",
+      "conteudo": "Realizando o método POST do http com fetch.",
+      "autor": "Vinicius Aguiar"
+    },
+    {
+      "id": 10,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "titulo": "Teste do Método POST",
+      "conteudo": "Realizando o método POST do http com fetch.",
+      "autor": "Vinicius Aguiar"
+    },
+    {
+      "id": 11,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "titulo": "Teste do Método POST",
+      "conteudo": "Realizando o método POST do http com fetch.",
+      "autor": "Vinicius Aguiar"
+    },
+    {
+      "id": 12,
+      "imagem": "https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png",
+      "titulo": "Teste do Método POST",
+      "conteudo": "Realizando o método POST do http com fetch.",
+      "autor": "Vinicius Aguiar"
+    }
+  ]
+}
