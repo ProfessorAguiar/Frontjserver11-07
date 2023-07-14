@@ -83,6 +83,13 @@
       "titulo": "Teste do Método POST",
       "conteudo": "Realizando o método POST do http com fetch.",
       "autor": "Vinicius Aguiar"
+    },
+    {
+      "id": 13,
+      "imagem": "https://kinghost.com.br/wiki/wp-content/uploads/2015/04/config-php-painel-1.png",
+      "titulo": "Erro 500 do HTTP",
+      "conteudo": "Ele pode ocorrer por alguns motivos específicos, tais como:\n Definição de parâmetros de forma incorreta através de um arquivo .htaccess;\n Elevado uso de recursos ou timeout;\n Permissões de arquivos incorretas (Linux);\n Alto número de acessos simultâneos no site;\n Erros de regravação de URL e de diretivas PHP.",
+      "autor": "Vinicius Aguiar"
     }
   ]
 }

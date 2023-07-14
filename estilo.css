@@ -41,3 +41,12 @@ main{
     flex-wrap: wrap;
     justify-content: center;
 }
+form{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    height: 25px;
+}
